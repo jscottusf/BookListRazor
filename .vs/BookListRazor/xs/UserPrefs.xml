@@ -4,15 +4,9 @@
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="BookListRazor" expanded="True">
-            <Node name="BookListRazor" expanded="True">
-              <Node name="Model" selected="True" />
-              <Node name="appsettings.json" expanded="True" />
-            </Node>
+            <Node name="BookListRazor" expanded="True" />
           </Node>
         </State>
-      </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
